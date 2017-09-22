@@ -16,7 +16,7 @@ Metodos y funciones
 + referencias
 ![](https://i.imgur.com/kZjxDMV.png?1)
 + funciones y metodos
-[Imgur](https://i.imgur.com/Cp4ZL61.png?1)
+[](https://i.imgur.com/Cp4ZL61.png?1)
 
 Paso por Valor
 -----------------
